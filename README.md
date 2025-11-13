@@ -4,7 +4,7 @@ Discover your perfect scent ritual with NeuraScent. Take our interactive quiz to
 
 ## Getting Started
 
-- Visit the [live site](https://neurascent.vercel.app) (update with your Vercel URL after deployment).
+- Visit the [live site](https://neurascent.vercel.app).
 - Explore the quiz at `/quiz`.
 
 ### Development Setup
